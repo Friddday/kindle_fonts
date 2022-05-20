@@ -32,7 +32,7 @@ Rplace the iOS Kindle APP's font.
 - 上传至自己的 Github 或者其他可以直接访问的地址。
 
 ### 三、网络工具的配置
-最后得到 302 重写规则，创建如下所示的 Surge 模块「注意，一定要把代码里的字体地址 `https://example.com/STSongSC.ttf` 替换成你上传字体后得到的真实可用的地址」：
+最后得到 302 重写规则，创建如下所示的 Surge 模块「注意，一定要把代码里的字体地址 `https://YourFontURLs/STSongSC.ttf` 替换成你上传字体后得到的真实可用的地址」：
 
 ```bash
 #!name=Kindle Fonts Customize
